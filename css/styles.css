@@ -1,0 +1,76 @@
+#title {
+  background-color: #00909e;
+  text-align: center;
+  color: white;
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+
+#game {
+  background-color: #142850;
+  padding-top: 20px;
+  padding-bottom: 0;
+}
+
+#bottom {
+  height: 500px;
+  background-color: #dae1e7;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 2rem;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+p {
+  color: #dae1e7;
+}
+
+/* Title Section */
+
+.title-text {
+  width: 35%;
+  margin: 40px auto;
+}
+
+/* Game Section */
+.option {
+  color: white;
+  text-align: center;
+  padding-bottom: 55px;
+  padding-top: 35px;
+}
+
+.option:hover {
+  background-color: #00909e;
+}
+
+.icon {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Option 1: Parts */
+
+.part-text {
+  width: 40%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.symbol {
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
