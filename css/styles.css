@@ -74,3 +74,18 @@ p {
   text-align: center;
   padding: 30px;
 }
+
+
+/* Media Section */
+
+@media (max-width: 800px) {
+
+  .title-text {
+    width: 90%;
+  }
+
+  .part-text {
+    width: 90%;
+  }
+
+}
